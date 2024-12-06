@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋  
+I'm Ling Yang En, a Computer Science graduate with a strong passion for **machine learning** and **AI**. I enjoy solving real-world problems through AI, building scalable data pipelines, and deploying solutions on platforms like **GCP** and **AWS**. I'm excited to grow my career in the fields of **machine learning** and **AI**!  
 
-<!--
-**Ling1304/Ling1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact 📬  
+- **Email:** hezronling123@gmail.com  
+- **LinkedIn:** [linkedin.com/in/yang-en-ling-990bb62a8](https://linkedin.com/in/yang-en-ling-990bb62a8)  
+- **Location:** Selangor, Malaysia  
 
-Here are some ideas to get you started:
+## Interests 💡  
+- Data Analysis  
+- Machine Learning  
+- Large Language Models (LLMs)  
+- Data Pipelines  
+- SQL  
+- MLOps  
+- GCP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently exploring advanced fine-tuning techniques like **LoRA**, **QLoRA**, and **Retrieval-Augmented Generation (RAG)**, as well as tools like **Amazon SageMaker** and **RESTful APIs**. Check out my ongoing project, [Fine-Tuning-LLM-for-Math-Problems-with-LoRA-and-QLoRA](https://github.com/Ling1304/Fine-Tuning-LLMs-for-Math-Problems-with-LoRA-and-QLoRA), which is expected to be completed by January 2025. Feel free to explore my other repositories or reach out for collaboration opportunities!  
